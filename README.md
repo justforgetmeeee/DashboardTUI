@@ -23,4 +23,9 @@
 ### Сборка
 1. Клонируйте репозиторий:
 ```bash
-git clone [https://github.com/justforgetmeeee/DashboardTUI.git](https://github.com/justforgetmeeee/DashboardTUI.git)
+git clone https://github.com/justforgetmeeee/DashboardTUI.git
+```
+2. Запуск:
+```bash
+dotnet run
+```
