@@ -23,7 +23,7 @@
 ### Сборка
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/justforgetmeeee/DashboardTUI.git
+git clone https://github.com/justforgetmeeee/DashboardTUI.git && cd DashboardTUI
 ```
 2. Запуск:
 ```bash
